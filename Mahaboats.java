@@ -1,5 +1,10 @@
 package Mahaboats;
 
+/**
+ * @author TSS
+ *
+ */
+
 import javax.swing.*;
 
 import java.awt.*;
